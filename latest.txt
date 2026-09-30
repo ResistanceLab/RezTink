@@ -1,0 +1,5 @@
+RezTink-0.0.22
+https://raw.githubusercontent.com/ResistanceLab/RezTink/main/RezTink-0.0.22.dll
+3a26a3ab9c119ffc9be6a9d71d151d0ee9a781ded355ae410a992627820094ff
+RezTink 0.0.22 :
+- RezTink now updates itself from GitHub. /rt update checks right away.
