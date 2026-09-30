@@ -9,11 +9,11 @@ and hands everything back at the end. It also handles trinkets, trinket armature
 portals and crafting recipes, keeps a ledger of everything it holds so nothing is ever lost, and
 has a ban list, gear suits per tinkering skill and a periodic announcement.
 
-**Current version: 0.0.22** - `RezTink-0.0.22.dll`
+**Current version: 0.0.23** - `RezTink-0.0.23.dll`
 
 ## Install (once)
 
-1. Download **`RezTink-0.0.22.dll`** from this repository (click the file, then *Download raw file*).
+1. Download **`RezTink-0.0.23.dll`** from this repository (click the file, then *Download raw file*).
    If Windows blocked it: right-click it, Properties, tick *Unblock*.
 2. Put it in your Decal plugins folder, open the Decal agent, **Add**, and pick the DLL.
 3. Log in. A "RezTink" window appears in the Virindi bar; tick **Bot enabled** or type `/rt start`.
