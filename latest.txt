@@ -1,5 +1,5 @@
-RezTink-0.0.23
-https://raw.githubusercontent.com/ResistanceLab/RezTink/main/RezTink-0.0.23.dll
-4347f22c57f56f2ade7266bf7d71e7cc0cc97f17c9d343a0c9d65eebf9602a9a
-RezTink 0.0.23 :
-- Test release for the self-updater: no changes to the bot. A 0.0.22 client should announce this build after login, download it and run it from the next game start.
+RezTink-0.0.24
+https://github.com/ResistanceLab/RezTink/releases/download/RezTink-0.0.24/RezTink-0.0.24.dll
+18d0e22b7c7957a510c16e040bed92f0dc8d5290b61e401ca5c28b09cbd08005
+- Releases now work like RezTank's: each build is a GitHub release on ResistanceLab/RezTink (tag RezTink-<ver>, the DLL attached) and latest.txt points at it, instead of DLL files committed to the repo. publish.sh runs the public repo's release.sh (gh release create) after building and pushing the source; publish.bat now runs publish.sh in Git Bash and publish.ps1 is gone.
+- The "automatic download is off" notice links to the releases page.
